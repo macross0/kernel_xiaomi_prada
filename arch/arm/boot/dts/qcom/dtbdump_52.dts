@@ -1,0 +1,7 @@
+/dts-v1/;
+
+/ {
+	model = "Qualcomm Technologies, Inc. MSM8937 RUMI";
+	compatible = "qcom,msm8937-rumi", "qcom,msm8937", "qcom,rumi";
+	qcom,msm-id = <0x126 0x0>;
+};
